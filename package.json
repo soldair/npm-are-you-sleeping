@@ -1,0 +1,20 @@
+{
+  "name": "npm-are-you-sleeping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js",
+    "lint": "prettier --write ./*.js"
+  },
+  "bin": {
+    "npm-are-you-sleeping": "./index.js"
+  },
+  "keywords": [],
+  "author": "Ryan Day <ryaneday@google.com>",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "prettier": "^1.14.2"
+  }
+}
