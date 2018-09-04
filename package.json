@@ -16,5 +16,6 @@
   "devDependencies": {
     "mocha": "^5.2.0",
     "prettier": "^1.14.2"
-  }
+  },
+  "repository":"soldair/npm-are-you-sleeping"
 }

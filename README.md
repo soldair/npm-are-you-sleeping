@@ -32,7 +32,7 @@ if you have 100s of builds like we do these errors have really started stacking 
 
 Inspired by Eddy cat who likes to check to see if @zkat is sleeping
 
-![PICTURE OF EDDY CAT](./img/eddy-kat.png)
+![PICTURE OF EDDY CAT](https://github.com/soldair/npm-are-you-sleeping/raw/master/img/eddy-kat.png)
 
 ## NOTES
 
