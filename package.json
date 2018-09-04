@@ -1,6 +1,6 @@
 {
   "name": "npm-are-you-sleeping",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A helpful script to restart npm if its hung in ci",
   "main": "index.js",
   "scripts": {
@@ -17,5 +17,5 @@
     "mocha": "^5.2.0",
     "prettier": "^1.14.2"
   },
-  "repository":"soldair/npm-are-you-sleeping"
+  "repository": "soldair/npm-are-you-sleeping"
 }
