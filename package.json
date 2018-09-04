@@ -1,7 +1,7 @@
 {
   "name": "npm-are-you-sleeping",
   "version": "1.0.0",
-  "description": "",
+  "description": "A helpful script to restart npm if its hung in ci",
   "main": "index.js",
   "scripts": {
     "test": "mocha test.js",
